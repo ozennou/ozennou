@@ -1,9 +1,11 @@
 # 💫 About Me:
 Hi, my name is Mohamed amine ozennou, a passionate CS and IT architect student at 1337 coding school (42 network) at morocco.
 
+[![mozennou's 42 stats](https://badge.mediaplus.ma/greenbinary/mozennou)](https://github.com/oakoudad/badge42)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-amine-ozennou/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ozennoumohamedamine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MOzennou) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-ozennou-8b0a87289/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ozennoumohamedamine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MOzennou) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white)
