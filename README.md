@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, my name is Mohamed amine ozennou, a passionate CS and IT architect student at 1337 coding school (42 network) at morocco.
-
+![](https://komarev.com/ghpvc/?username=totallyrad1)
 [![mozennou's 42 stats](https://badge.mediaplus.ma/greenbinary/mozennou)](https://github.com/oakoudad/badge42)
 
 # 📊 GitHub Stats:
