@@ -8,20 +8,20 @@
 
 <h2>Some of my latest projects:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Cloud-1&theme=dracula)](https://github.com/ozennou/Cloud-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=containerize-wordpress-infra&theme=dracula)](https://github.com/ozennou/containerize-wordpress-infra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=ELK-stack&theme=dracula)](https://github.com/ozennou/ELK-stack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Orchestrator&theme=dracula)](https://github.com/ozennou/Orchestrator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Cloud-1&theme=algolia)](https://github.com/ozennou/Cloud-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=containerize-wordpress-infra&theme=algolia)](https://github.com/ozennou/containerize-wordpress-infra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=ELK-stack&theme=algolia)](https://github.com/ozennou/ELK-stack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Orchestrator&theme=algolia)](https://github.com/ozennou/Orchestrator)
 
-![](https://github-readme-stats.vercel.app/api?username=ozennou&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ozennou&theme=dracula&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=ozennou&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ozennou&theme=algolia&hide_border=true)
 
 
 
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=ozennou&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ozennou&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
 
