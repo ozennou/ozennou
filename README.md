@@ -1,7 +1,13 @@
 # 💫 About Me:
 - Hi, my name is Mohamed amine ozennou, a passionate CS and IT architect student at 1337 coding school (42 network) at morocco.
 
-![image](./resources/image.jpeg)
+<!--![image](./resources/image.jpeg)-->
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/mozennou" alt="mozennou's 42 stats">
+  </a>
+</div>
+
 
 <!--![](https://komarev.com/ghpvc/?username=ozennou)-->
 <!--[![mozennou's 42 stats](https://badge.mediaplus.ma/greenbinary/mozennou)](https://github.com/oakoudad/badge42)-->
