@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi, my name is Mohamed amine ozennou, a passionate CS and IT architect student at 1337 coding school (42 network) at morocco.
+- Hi, my name is Mohamed amine ozennou, a passionate DevOps Engineering student at 1337 coding school (42 network) at morocco.
 
 <!--![image](./resources/image.jpeg)-->
 <div align="center">
