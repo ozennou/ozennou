@@ -2,11 +2,11 @@
 - Hi, my name is Mohamed amine ozennou, a passionate DevOps Engineering student at 1337 coding school (42 network) at morocco.
 
 <!--![image](./resources/image.jpeg)-->
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/binary/mozennou" alt="mozennou's 42 stats">
   </a>
-</div>
+</div>-->
 
 
 <!--![](https://komarev.com/ghpvc/?username=ozennou)-->
