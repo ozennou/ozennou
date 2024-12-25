@@ -16,7 +16,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Cloud-1&theme=algolia)](https://github.com/ozennou/Cloud-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=containerize-wordpress-infra&theme=algolia)](https://github.com/ozennou/containerize-wordpress-infra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=ELK-stack&theme=algolia)](https://github.com/ozennou/ELK-stack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=code-guard&theme=algolia)](https://github.com/ozennou/code-guard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Orchestrator&theme=algolia)](https://github.com/ozennou/Orchestrator)
 
 ![](https://github-readme-stats.vercel.app/api?username=ozennou&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)
