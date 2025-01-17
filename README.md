@@ -14,21 +14,18 @@
 
 <h2>Some of my latest projects:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Cloud-1&theme=algolia)](https://github.com/ozennou/Cloud-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=containerize-wordpress-infra&theme=algolia)](https://github.com/ozennou/containerize-wordpress-infra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=ELK-stack&theme=algolia)](https://github.com/ozennou/ELK-stack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Orchestrator&theme=algolia)](https://github.com/ozennou/Orchestrator)
-
-![](https://github-readme-stats.vercel.app/api?username=ozennou&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ozennou&theme=algolia&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Cloud-1&theme=buefy)](https://github.com/ozennou/Cloud-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=containerize-wordpress-infra&theme=buefy)](https://github.com/ozennou/containerize-wordpress-infra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=ELK-stack&theme=buefy)](https://github.com/ozennou/ELK-stack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Orchestrator&theme=buefy)](https://github.com/ozennou/Orchestrator)
 
 
-![image](./resources/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61302f64352f38312f61306435383136363664323664643963363662663865643339356362613934382e676966.gif)
+<img src="./resources/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61302f64352f38312f61306435383136363664323664643963363662663865643339356362613934382e676966.gif" width="400"/>
 
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=ozennou&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 
 
