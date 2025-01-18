@@ -12,17 +12,16 @@
 <!--![](https://komarev.com/ghpvc/?username=ozennou)-->
 <!--[![mozennou's 42 stats](https://badge.mediaplus.ma/greenbinary/mozennou)](https://github.com/oakoudad/badge42)-->
 
-<h2>Some of my latest projects:</h2>
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="./resources/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61302f64352f38312f61306435383136363664323664643963363662663865643339356362613934382e676966.gif" alt="Banner">
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Cloud-1&theme=buefy)](https://github.com/ozennou/Cloud-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=containerize-wordpress-infra&theme=buefy)](https://github.com/ozennou/containerize-wordpress-infra)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=ELK-stack&theme=buefy)](https://github.com/ozennou/ELK-stack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozennou&repo=Orchestrator&theme=buefy)](https://github.com/ozennou/Orchestrator)
-
-
-<img src="./resources/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61302f64352f38312f61306435383136363664323664643963363662663865643339356362613934382e676966.gif" width="400"/>
 
 ---
+<h2>Some of my latest projects:</h2>
+
 
 
 
