@@ -20,7 +20,6 @@
 
 
 ---
-<h2>Some of my latest projects:</h2>
 
 
 
