@@ -13,7 +13,7 @@
 <!--[![mozennou's 42 stats](https://badge.mediaplus.ma/greenbinary/mozennou)](https://github.com/oakoudad/badge42)-->
 
 <p align="center">
-  <a href="https://yuna0x0.com">
+  <a href="">
     <img src="./resources/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61302f64352f38312f61306435383136363664323664643963363662663865643339356362613934382e676966.gif" alt="Banner">
   </a>
 </p>
