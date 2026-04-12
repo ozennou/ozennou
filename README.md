@@ -1,16 +1,24 @@
 # 💫 About Me:
-- Hi, my name is Mohamed amine ozennou, a passionate DevOps Engineering student at 1337 coding school (42 network) at morocco.
+I am Mohamed Amine OZENNOU, a Cloud & DevOps Engineer based in Casablanca, Morocco. I specialize in building scalable, secure, and automated cloud infrastructures.
 
-<!--![image](./resources/image.jpeg)-->
-<!--<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/mozennou" alt="mozennou's 42 stats">
-  </a>
-</div>-->
+🛠️ Technical Stack
+- Cloud: Azure, IBM Cloud, Red Hat OpenShift, AWS.
+- Orchestration: Kubernetes (AKS, K3s), Docker, ArgoCD (GitOps).
+- Infrastructure as Code: Terraform, Ansible.
+- Security: Terrascan, SonarQube, Snyk, Trivy.
+- CI/CD: GitHub Actions, GitLab CI, Jenkins.
+- Observability: Prometheus, Thanos, Grafana, ELK Stack.
 
+🏅 Certifications
+- Microsoft: Azure Solutions Architect Expert (AZ-305)
+- Microsoft: Azure DevOps Engineer Expert (AZ-400)
+- GitHub: Actions Certified (GH-200)
+- IBM Cloud Professional Architect Cloud Options V2
 
-<!--![](https://komarev.com/ghpvc/?username=ozennou)-->
-<!--[![mozennou's 42 stats](https://badge.mediaplus.ma/greenbinary/mozennou)](https://github.com/oakoudad/badge42)-->
+📫 Connect with me
+
+LinkedIn: [linkedin.com/in/ozennou](https://www.linkedin.com/in/ozennou/)
+
 
 <p align="center">
   <a href="">
