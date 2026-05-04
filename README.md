@@ -15,10 +15,6 @@ I am Mohamed Amine OZENNOU, a Cloud & DevOps Engineer based in Casablanca, Moroc
 - GitHub: Actions Certified (GH-200)
 - IBM Cloud Professional Architect Cloud Options V2
 
-📫 Connect with me
-
-LinkedIn: [linkedin.com/in/ozennou](https://www.linkedin.com/in/ozennou/)
-
 
 <p align="center">
   <a href="">
