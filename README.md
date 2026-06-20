@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mohamed Amine OZENNOU, a Cloud & DevOps Engineer based in Casablanca, Morocco. I specialize in building scalable, secure, and automated cloud infrastructures.
+I am Mohamed Amine OZENNOU, a Cloud & DevOps Engineer based in Morocco. I specialize in building scalable, secure, and automated cloud infrastructures.
 
 🛠️ Technical Stack
 - Cloud: Azure, IBM Cloud, Red Hat OpenShift, AWS.
