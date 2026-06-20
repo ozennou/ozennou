@@ -2,8 +2,8 @@
 I am Mohamed Amine OZENNOU, a Cloud & DevOps Engineer based in Morocco. I specialize in building scalable, secure, and automated cloud infrastructures.
 
 🛠️ Technical Stack
-- Cloud: Azure, IBM Cloud, Red Hat OpenShift, AWS.
-- Orchestration: Kubernetes (AKS, K3s), Docker, ArgoCD (GitOps).
+- Cloud: Azure, IBM Cloud, AWS.
+- Orchestration: Kubernetes (AKS, K3s), Red Hat OpenShift, Docker, ArgoCD (GitOps).
 - Infrastructure as Code: Terraform, Ansible.
 - Security: Terrascan, SonarQube, Snyk, Trivy.
 - CI/CD: GitHub Actions, GitLab CI, Jenkins.
